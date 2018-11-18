@@ -1,0 +1,14 @@
+.BurgerDiv {
+    width: "100%";
+    margin: "auto";
+}
+
+.CheckoutSummary {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+@media (min-width: 600px){
+    width: 500px;
+}
